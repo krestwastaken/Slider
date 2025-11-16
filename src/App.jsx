@@ -1,9 +1,11 @@
 import Carousel from "./Carousel";
+import ReactCarousel from "./ReactCarousel";
 
 const App = () => {
   return (
     <main>
-      <Carousel/>
+      {/* <Carousel/> */}
+      <ReactCarousel/>
     </main>
   );
 };
